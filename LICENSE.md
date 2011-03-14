@@ -1,0 +1,1 @@
+simple-node-proxy is licensed under [WTFPL](http://sam.zoy.org/wtfpl/)
